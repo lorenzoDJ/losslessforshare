@@ -1,0 +1,6 @@
+{
+  "name": "Lossless for Share",
+  "description": "Connect and browse lossless music releases, audio albums, and community shares on Lossless for Share.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

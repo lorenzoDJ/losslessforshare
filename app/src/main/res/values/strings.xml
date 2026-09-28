@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lossless for Share</string>
+    <string name="default_server_url">https://losslessforshare.great-site.net</string>
+    <string name="action_home">Home</string>
+    <string name="action_back">Back</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_share">Share</string>
+    <string name="action_open_browser">Open in Browser</string>
+    <string name="action_desktop_mode">Desktop Site</string>
+    <string name="action_mobile_mode">Mobile Site</string>
+    <string name="action_clear_cache">Clear Cache &amp; Cookies</string>
+    <string name="action_server_settings">Server Settings</string>
+    <string name="action_about">About Lossless for Share</string>
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline</string>
+    <string name="error_connection_title">Unable to Connect to Server</string>
+    <string name="error_connection_desc">Could not load the page from Lossless for Share. The server may be waking up, under maintenance, or your device may be disconnected.</string>
+    <string name="action_retry">Retry Connection</string>
+    <string name="download_started_msg">Download started: %1$s</string>
+    <string name="cache_cleared_msg">Cache and cookies cleared successfully</string>
+    <string name="about_dialog_title">About Lossless for Share</string>
+    <string name="about_dialog_desc">Lossless for Share is your dedicated platform for high-fidelity lossless music, audio albums, and community shares.</string>
+    <string name="server_settings_title">Configure Server URL</string>
+    <string name="server_settings_hint">https://losslessforshare.great-site.net</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_reset">Reset to Default</string>
+    <string name="btn_close">Close</string>
+</resources>
